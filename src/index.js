@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 //import FirstComponent from "./firstcomponent";//here we have imported our first component
 //import SecondComponent from "./secondcomponent";
-import NestedComponent from "./NestedComponent";
+import Bookstore from "./BookStore";
 ReactDOM.render(
   <React.StrictMode>
-    <NestedComponent/>
+    <Bookstore/>
   </React.StrictMode>,
   document.getElementById('root')
 );
