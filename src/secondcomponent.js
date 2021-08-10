@@ -9,7 +9,7 @@ function SecondComponent() {
                 <div>
                 <h2>Name- Ravi Teja </h2>
                 <img src="download1.jpg" alt="Ravi Teja"
-                width="500" height="400"></img>
+                width="500" height="300"></img>
                 </div>
                    
             </React.Fragment>
