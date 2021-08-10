@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import FirstComponent from "./firstcomponent";//here we have imported our first component
-import SecondComponent from "./secondComponent";
+import SecondComponent from "./secondcomponent";
 ReactDOM.render(
   <React.StrictMode>
     <FirstComponent /> {/* this is how we use a component */}
